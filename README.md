@@ -32,6 +32,8 @@ Create the following diagrams in StarUML:
 ## COMMUNICATION DIAGRAM:
 
 <img width="981" height="734" alt="image" src="https://github.com/user-attachments/assets/82c1b7fa-f3b7-4d29-b0d7-7c88cb484a84" />
+
+
 ## ACTIVITY DIAGRAM:
 
 <img width="499" height="876" alt="image" src="https://github.com/user-attachments/assets/bbec7013-3d94-4fb7-a62b-daedb1f5350e" />
